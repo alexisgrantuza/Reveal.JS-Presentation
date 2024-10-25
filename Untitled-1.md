@@ -61,19 +61,7 @@ by [@alexisgrantuza](https://www.facebook.com/jxisgrantuza)
      🛠️ Vast library of extensions <br>
      🎨 Highly customizable interface
   </div>
-  
-  <div class="images">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" alt="Python Logo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel Logo">
-    <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="Node.js Logo">
-    <img src="https://www.shareicon.net/download/2015/09/15/101465_social.svg" alt="Social Logo">
-    <img src="https://prettier.io/icon.png" alt="Prettier Logo">
-    <img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default" alt="Live Server Logo">
-    <img src="https://www.svgrepo.com/show/304577/code-snippet.svg" alt="Code Snippet Logo">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAE2HMiofEsBoZDjSNb8L65mna0ySF_LQo6g&s" alt="Another Icon">
-    <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.12.2/1712309175692/Microsoft.VisualStudio.Services.Icons.Default" alt="Code Runner Logo">
-  </div>
-</div>
+
 
 ---
 
